@@ -1,1 +1,0 @@
-# diplom_text_analy
